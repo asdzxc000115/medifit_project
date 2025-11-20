@@ -5,7 +5,7 @@
 
 > **"복잡한 의료 정보는 그만! AI로 쉽고 간편하게 관리하는 내 손안의 건강 비서"**
 
-<img src="https://github.com/user-attachments/assets/a4d8b9c1-4e6f-41f6-ad14-ad2d564d1bb3" width="600" />
+<img src="https://github.com/user-attachments/assets/feac3ba2-7b43-434d-9ad5-bcb4ff5b561d" width="800" />
 
 <br><br>
 
@@ -25,7 +25,7 @@
 | 항목 | 내용 |
 | :--- | :--- |
 | **진행 기간** | 2025.07 ~ 2025.09 (약 2개월) |
-| **참여 대회** | 인하공업전문대학 교내 해커톤 대회 |
+| **참여 대회** | 은하톤 8팀 프로젝트 |
 | **팀 구성** | 총 6명 (리더 1, 팀원 5) |
 | **나의 역할** | **Team Leader, Backend Developer** |
 
@@ -39,45 +39,45 @@
 
 <div align="center">
 
-### 1. AI 건강 상담 챗봇
-**"머리가 아프고 열이 나요"** 증상을 입력하면 AI가 1차적인 건강 상담을 제공하고 대처법을 안내합니다.
+### 1. 로그인 및 알림 (Login & Notification)
+간편한 로그인 프로세스와 주요 건강 정보(복약 시간, 예약 확정 등)를 알려주는 푸시 알림 화면입니다.
 
-<img src="https://github.com/user-attachments/assets/5ae6992e-bc97-4c43-8bef-104e008b8705" width="600" />
-
-<br><br>
-
-### 2. 위치 기반 병원 찾기
-사용자 위치 기준 반경 400m 이내의 병원을 지도에서 직관적으로 탐색합니다.
-
-<img src="https://github.com/user-attachments/assets/6608de14-bb30-4d5f-8732-3d3d6b5885ac" width="600" />
+<img src="https://github.com/user-attachments/assets/99a04bfa-f7f9-4628-8ed5-cf28da56fd1a" width="600" />
 
 <br><br>
 
-### 3. 스마트 복약 관리
-처방받은 약품의 효능 정보를 제공하며, 복용 달성률을 시각적인 바(Bar)로 보여줍니다.
+### 2. AI 건강 상담 챗봇 (AI Chatbot)
+사용자가 증상을 입력하면 AI가 1차적인 건강 상담을 제공하고 대처법을 친절하게 안내합니다.
 
-<img src="https://github.com/user-attachments/assets/b16af2b5-2713-4909-b5e3-dcb75b8e02d1" width="600" />
-
-<br><br>
-
-### 4. 진료 예약 시스템
-원하는 병원을 선택하여 간편하게 예약하고, 예약 확정 내역을 확인할 수 있습니다.
-
-<img src="https://github.com/user-attachments/assets/00639ab2-4f02-4827-ae37-e6491edf3a2e" width="600" />
+<img src="https://github.com/user-attachments/assets/3c262506-3324-4119-8348-068eeb2634f6" width="600" />
 
 <br><br>
 
-### 5. 통합 진료 기록 관리
-여러 병원에 흩어진 방문 이력을 날짜별로 통합하여 관리합니다.
+### 3. 주변 병원 찾기 (Find Hospitals)
+사용자 위치(GPS)를 기반으로 가까운 병원을 지도에서 직관적으로 탐색하고 선택할 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/25244cc0-e900-42ee-b682-1c4b3ff64917" width="600" />
+<img src="https://github.com/user-attachments/assets/59149139-17b5-4e0c-b9aa-c71c8c6c75e7" width="600" />
 
 <br><br>
 
-### 6. 상세 진단 내역
-특정 진료의 상세 진단 내용(체온, 증상 등)과 처방 내역을 한눈에 확인합니다.
+### 4. 진료 기록 관리 (Medical Records)
+여러 병원에 흩어져 있는 진료 내역과 상세 진단 기록을 날짜별로 한눈에 모아볼 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/30dea782-dc50-4e5e-b28e-b9b24f42ea93" width="600" />
+<img src="https://github.com/user-attachments/assets/670ed321-704a-4299-8ea3-2e737d5cbb2f" width="600" />
+
+<br><br>
+
+### 5. 스마트 복약 관리 (Medication)
+처방받은 약품의 정보를 확인하고, 일일 복용 달성률을 시각적인 바(Bar) 형태로 관리합니다.
+
+<img src="https://github.com/user-attachments/assets/79d4939a-a84b-4f23-a95e-221813c4a9fa" width="600" />
+
+<br><br>
+
+### 6. 예약 관리 (Reservation)
+진료 예약 현황을 실시간으로 확인하고, 확정된 예약 일정을 간편하게 관리할 수 있습니다.
+
+<img src="https://github.com/user-attachments/assets/5005db05-6768-4118-89a6-9124064aaaee" width="600" />
 
 </div>
 

@@ -5,7 +5,7 @@
 
 > **"복잡한 의료 정보는 그만! AI로 쉽고 간편하게 관리하는 내 손안의 건강 비서"**
 
-<img src="https://github.com/user-attachments/assets/7bf30e82-06b7-4025-9b6d-ad0aee6eb0bf" width="800" />
+<img src="https://github.com/user-attachments/assets/d1c91a33-7912-4ca4-b7de-c7ce3d3e818f" width="800" />
 
 <br><br>
 
